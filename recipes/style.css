@@ -1,3 +1,26 @@
 .food {
-    color: purple;
+    color: crimson;
+    text-align: center;
+}
+
+#bodypizza {
+    background-color: aliceblue;
+    color: crimson;
+
+}
+
+#bodyburger {
+    background-color: black;
+    color: yellow;
+    font-family: "Helvetica";
+    font-weight: bold;
+
+}
+
+#bodytabouli {
+    background-color: rgb(179, 231, 183);
+    color: brown;
+    font-weight: bold;
+    font-style: "Times New Roman", sans-serif;
+
 }
